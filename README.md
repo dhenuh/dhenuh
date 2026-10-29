@@ -6,4 +6,4 @@
 
 
 
-If I am working by myself. i prefer to work locally than commit everything for one line of code :/
+
